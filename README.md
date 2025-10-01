@@ -46,12 +46,12 @@ No Purchase: ~91% correctly classified
 
 Purchase: ~66% correctly classified
 
-Cleanup
+#### Cleanup
 
 Delete the SageMaker endpoint after testing to avoid charges.
 
 Clear or remove the S3 bucket used for training and test data.
 
-Key Notes
+### Key Notes
 
 Cost Efficiency: Spot training reduced training costs by over 60%.
