@@ -1,6 +1,6 @@
-#### This project demonstrates an end-to-end machine learning workflow on AWS SageMaker using the built-in XGBoost algorithm. The goal is to predict whether a customer subscribes to a term deposit, based on the well-known Bank Marketing dataset.
+### This project demonstrates an end-to-end machine learning workflow on AWS SageMaker using the built-in XGBoost algorithm. The goal is to predict whether a customer subscribes to a term deposit, based on the well-known Bank Marketing dataset.
 
-##### Workflow Overview
+#### Workflow Overview
 
 Setup & Configuration
 
