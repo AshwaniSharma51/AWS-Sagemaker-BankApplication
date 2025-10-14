@@ -54,4 +54,4 @@ Clear or remove the S3 bucket used for training and test data.
 
 ### Key Notes
 
-Cost Efficiency: Spot training reduced training costs by over 60%.
+Cost Efficiency: Spot training reduced training costs by over 60%
