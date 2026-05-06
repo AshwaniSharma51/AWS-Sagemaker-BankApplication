@@ -12,7 +12,7 @@ Configure SageMaker and Boto3 sessions in the us-east-1 region.
 
 Download the pre-cleaned bank marketing dataset.
 
-Load into a DataFrame and perform a 70/30 train-test split.
+Load into a DataFrame and perform a 70/30 train-test split
 
 #### Preprocessing & Upload
 
